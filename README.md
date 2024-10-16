@@ -2,7 +2,7 @@
 
 I'm Mina or Matheus, you can call me both!
 
-I’m a software engineer who met Go after years of working with Ruby and fell in love with the language. Here you can find technologies and subjects that I’m studying, working on, or interest in.
+I’m a software engineer who met Go after years of working with Ruby and fell in love with the language. Here you can find technologies and subjects that I’m studying, working on, or interested in.
 
 Some information about me:
 
