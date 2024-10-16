@@ -11,7 +11,7 @@ Some information about me:
 - Technician in Industrial IT on CEFET-MG
 - Bachelor in Computer Science on UNIFEI
 - I hope that one day I will get a master’s degree
-- I love dogs, and I have 5 of them
+- I love dogs
 - Muay Thai Practioner
 
 I write some stuff on [mfbmina.dev!](https://mfbmina.dev/en)
